@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 안녕
 
 <!--
 **skus1029/skus1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
