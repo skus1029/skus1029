@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello everyone~~~~👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skus1029&show_icons=true&theme=radical)
 <!--
 **skus1029/skus1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
