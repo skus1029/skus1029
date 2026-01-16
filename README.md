@@ -1,4 +1,4 @@
-## 안녕하세요. 영남대학교 디지털융합대학 컴퓨터공학부 22학번 박준혁입니다.
+## 안녕하세요.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skus1029&show_icons=true&theme=radical)
 <!--
